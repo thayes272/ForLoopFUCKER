@@ -1,0 +1,15 @@
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\bin\Debug\net5.0\FORLOOPghjkasrowieru.exe
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\bin\Debug\net5.0\FORLOOPghjkasrowieru.deps.json
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\bin\Debug\net5.0\FORLOOPghjkasrowieru.runtimeconfig.json
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\bin\Debug\net5.0\FORLOOPghjkasrowieru.runtimeconfig.dev.json
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\bin\Debug\net5.0\FORLOOPghjkasrowieru.dll
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\bin\Debug\net5.0\ref\FORLOOPghjkasrowieru.dll
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\bin\Debug\net5.0\FORLOOPghjkasrowieru.pdb
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\FORLOOPghjkasrowieru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\FORLOOPghjkasrowieru.AssemblyInfoInputs.cache
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\FORLOOPghjkasrowieru.AssemblyInfo.cs
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\FORLOOPghjkasrowieru.csproj.CoreCompileInputs.cache
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\FORLOOPghjkasrowieru.dll
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\ref\FORLOOPghjkasrowieru.dll
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\FORLOOPghjkasrowieru.pdb
+C:\Users\tyler\source\repos\FORLOOPghjkasrowieru\obj\Debug\net5.0\FORLOOPghjkasrowieru.genruntimeconfig.cache
